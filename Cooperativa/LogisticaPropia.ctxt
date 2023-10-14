@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=LogisticaPropia
+comment0.text=\r\n\ Clase\ que\ representa\ una\ instancia\ de\ log\u00EDstica\ propia.\r\n\ @author\ (Sara\ Cubero)\ \r\n\ @version\ (1.0)\r\n
+comment1.params=kg\ km
+comment1.target=LogisticaPropia(double,\ double)
+comment1.text=\r\n\ Constructor\ de\ la\ clase\ LogisticaPropia.\r\n\ \r\n\ @param\ kg\ El\ peso\ en\ kilogramos.\r\n\ @param\ km\ El\ recorrido\ en\ kil\u00F3metros.\r\n
+numComments=2

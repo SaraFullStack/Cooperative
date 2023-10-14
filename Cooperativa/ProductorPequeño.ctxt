@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=ProductorPeque\u00F1o
+comment1.params=nombre\ hectareas\ productos
+comment1.target=ProductorPeque\u00F1o(java.lang.String,\ double,\ java.util.List)
+comment1.text=\r\n\ Constructor\ de\ la\ clase\ ProductorPeque\u00F1o.\r\n\r\n\ @param\ nombre\ \ \ \ El\ nombre\ del\ Productor.\r\n\ @param\ hectareas\ El\ n\u00FAmero\ de\ hect\u00E1reas\ del\ Productor.\r\n\ @param\ productos\ La\ lista\ de\ productos\ del\ Productor.\r\n
+comment2.params=
+comment2.target=int\ getMaxProductos()
+comment2.text=\r\n\ Obtiene\ el\ n\u00FAmero\ m\u00E1ximo\ de\ productos\ permitidos\ para\ un\ Productor\ peque\u00F1o.\r\n\r\n\ @return\ El\ n\u00FAmero\ m\u00E1ximo\ de\ productos\ permitidos.\r\n
+numComments=3

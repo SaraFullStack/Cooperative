@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Distribuidor
+comment0.text=\r\n\ Clase\ que\ representa\ a\ un\ Comprador\ de\ tipo\ Distribuidor.\r\n\ Hereda\ de\ la\ clase\ Comprador\ y\ proporciona\ un\ constructor\ para\ crear\ un\ objeto\ Distribuidor.\r\n\ @author\ (Sara\ Cubero)\ \r\n\ @version\ (1.0)\r\n
+comment1.params=nombre\ pedido
+comment1.target=Distribuidor(java.lang.String,\ Pedido)
+comment1.text=\r\n\ Constructor\ de\ la\ clase\ Distribuidor.\r\n\ @param\ nombre\ nombre\ del\ comprador.\r\n\ @param\ pedido\ pedido\ del\ comprador.\r\n
+numComments=2

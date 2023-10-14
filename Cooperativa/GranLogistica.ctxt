@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=GranLogistica
+comment0.text=\r\n\ Clase\ que\ representa\ una\ log\u00EDstica\ de\ gran\ tama\u00F1o\ para\ el\ transporte\ de\ productos.\r\n\ Hereda\ de\ la\ clase\ Logistica.\r\n\ @author\ (Sara\ Cubero)\ \r\n\ @version\ (1.0)\r\n
+comment1.params=coste\ kg\ km
+comment1.target=GranLogistica(double,\ double,\ double)
+comment1.text=\r\n\ Constructor\ de\ la\ clase\ GranLogistica.\r\n\ @param\ coste\ el\ coste\ de\ la\ log\u00EDstica\r\n\ @param\ kg\ el\ peso\ en\ kg\ de\ la\ log\u00EDstica\r\n\ @param\ km\ la\ distancia\ en\ km\ de\ la\ log\u00EDstica\r\n\ @param\ producto\ el\ producto\ asociado\ a\ la\ log\u00EDstica\r\n
+comment2.params=
+comment2.target=double\ getPrecioKm()
+comment2.text=\r\n\ Obtiene\ el\ precio\ por\ kil\u00F3metro\ de\ la\ log\u00EDstica\ de\ gran\ tama\u00F1o.\r\n\ @return\ el\ precio\ por\ kil\u00F3metro\r\n
+numComments=3

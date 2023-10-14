@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=TablaPrecios
+comment1.params=tipoProducto\ fecha
+comment1.target=double\ getPrecio(TipoProducto,\ java.time.LocalDate)
+comment1.text=\r\n\ Obtiene\ si\ el\ precio\ del\ producto\ que\ se\ ajusta\ mas\ a\ la\ fecha\ requerida.\r\n\ @return\ precio\r\n
+comment2.params=precio\ tipoProducto\ fecha
+comment2.target=void\ setPrecio(double,\ TipoProducto,\ java.time.LocalDate)
+comment2.text=\r\n\ Actualiza\ el\ precio\ de\ un\ tipo\ de\ producto\r\n\ \r\n
+comment3.params=tipoProducto
+comment3.target=java.util.List\ getPreciosAnteriores(TipoProducto)
+comment4.params=tipoProducto
+comment4.target=boolean\ productoTieneCambios(TipoProducto)
+comment4.text=\r\n\ Obtiene\ si\ el\ precio\ del\ producto\ a\ sufrido\ cambios.\r\n\ \r\n\ @return\ boolean\r\n
+numComments=5

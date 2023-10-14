@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Logistica
+comment1.params=coste\ kg\ km
+comment1.target=Logistica(double,\ double,\ double)
+comment1.text=\r\n\ Constructor\ de\ la\ clase\ Logistica.\r\n\r\n\ @param\ coste\ El\ coste\ de\ la\ log\u00EDstica.\r\n\ @param\ kg\ \ \ \ Los\ kilogramos\ de\ carga\ de\ la\ log\u00EDstica.\r\n\ @param\ km\ \ \ \ Los\ kil\u00F3metros\ recorridos\ en\ la\ log\u00EDstica.\r\n
+comment2.params=producto\ kmCapital\ kmLocalidad\ cantidad
+comment2.target=java.util.List\ generarEnvio(Producto,\ double,\ double,\ int)
+comment2.text=\r\n\ M\u00E9todo\ est\u00E1tico\ para\ generar\ un\ env\u00EDo\ de\ log\u00EDstica.\ Este\ m\u00E9todo\ utiliza\ la\r\n\ factor\u00EDa\ de\ log\u00EDstica\ para\ crear\ el\ env\u00EDo.\r\n\r\n\ @param\ producto\ \ \ \ El\ producto\ a\ enviar.\r\n\ @param\ kmCapital\ \ \ Los\ kil\u00F3metros\ en\ ruta\ hacia\ la\ capital.\r\n\ @param\ kmLocalidad\ Los\ kil\u00F3metros\ en\ ruta\ hacia\ la\ localidad.\r\n\ @param\ cantidad\ \ \ \ La\ cantidad\ de\ productos\ a\ enviar.\r\n\ @return\ Una\ lista\ de\ objetos\ de\ tipo\ Logistica\ que\ representan\ el\ env\u00EDo.\r\n
+comment3.params=
+comment3.target=double\ getKm()
+comment3.text=\r\n\ Obtiene\ los\ kil\u00F3metros\ recorridos\ en\ la\ log\u00EDstica.\r\n\r\n\ @return\ Los\ kil\u00F3metros\ recorridos.\r\n
+comment4.params=
+comment4.target=double\ getKg()
+comment4.text=\r\n\ Obtiene\ los\ kilogramos\ de\ carga\ de\ la\ log\u00EDstica.\r\n\r\n\ @return\ Los\ kilogramos\ de\ carga.\r\n
+comment5.params=
+comment5.target=double\ getCoste()
+comment5.text=\r\n\ Obtiene\ el\ coste\ de\ la\ log\u00EDstica.\r\n\r\n\ @return\ El\ coste\ de\ la\ log\u00EDstica.\r\n
+comment6.params=
+comment6.target=java.lang.String\ getTipo()
+comment6.text=\r\n\ Obtiene\ el\ tipo\ de\ log\u00EDstica.\r\n\r\n\ @return\ El\ tipo\ de\ log\u00EDstica\ como\ una\ cadena\ de\ texto.\r\n
+numComments=7

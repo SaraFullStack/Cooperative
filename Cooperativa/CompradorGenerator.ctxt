@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=CompradorGenerator
+comment1.params=productores
+comment1.target=java.util.List\ generarCompradores(java.util.List)
+comment1.text=\r\n\ Genera\ una\ lista\ de\ compradores\ aleatorios\ basados\ en\ la\ lista\ de\ productos\r\n\ proporcionada.\r\n\ \r\n\ @param\ productores\ lista\ de\ productores\ disponibles.\r\n\ @return\ una\ lista\ de\ compradores\ generados\ aleatoriamente.\r\n
+comment2.params=productos
+comment2.target=java.util.List\ agregarElementosPedido(java.util.List)
+comment2.text=\r\n\ Agrega\ elementos\ de\ pedido\ aleatorios\ a\ una\ lista\ de\ elementos\ de\ pedido.\r\n\ \r\n\ @param\ productos\ lista\ de\ productos\ disponibles.\r\n\ @return\ una\ lista\ de\ elementos\ de\ pedido\ generados\ aleatoriamente.\r\n
+comment3.params=
+comment3.target=java.lang.String\ generarTipoComprador()
+comment3.text=\r\n\ Genera\ un\ tipo\ de\ comprador\ aleatorio\ (DISTRIBUIDOR\ o\ CONSUMIDOR_FINAL).\r\n\ \r\n\ @return\ el\ tipo\ de\ comprador\ generado\ aleatoriamente.\r\n
+comment4.params=
+comment4.target=java.lang.String\ generarNombreComprador()
+comment4.text=\r\n\ Genera\ un\ nombre\ de\ comprador\ aleatorio\ utilizando\ una\ combinaci\u00F3n\ de\ nombres\r\n\ y\ apellidos.\r\n\ \r\n\ @return\ el\ nombre\ de\ comprador\ generado\ aleatoriamente.\r\n
+numComments=5

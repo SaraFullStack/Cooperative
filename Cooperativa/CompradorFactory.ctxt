@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=CompradorFactory
+comment0.text=\r\n\ F\u00E1brica\ para\ crear\ objetos\ Comprador.\ Proporciona\ un\ m\u00E9todo\ est\u00E1tico\ para\r\n\ crear\ diferentes\ tipos\ de\ compradores\ seg\u00FAn\ el\ tipo\ especificado.\r\n\ @author\ (Sara\ Cubero)\ \r\n\ @version\ (1.0)\r\n
+comment1.params=tipo\ nombre\ pedido
+comment1.target=Comprador\ crearComprador(java.lang.String,\ java.lang.String,\ Pedido)
+comment1.text=\r\n\ Crea\ un\ objeto\ Comprador\ seg\u00FAn\ el\ tipo\ especificado.\r\n\ \r\n\ @param\ tipo\ \ \ tipo\ de\ comprador\ (DISTRIBUIDOR\ o\ CONSUMIDOR_FINAL).\r\n\ @param\ nombre\ nombre\ del\ comprador.\r\n\ @param\ pedido\ pedido\ asociado\ al\ comprador.\r\n\ @return\ un\ objeto\ Comprador\ creado\ seg\u00FAn\ el\ tipo\ especificado.\r\n
+numComments=2

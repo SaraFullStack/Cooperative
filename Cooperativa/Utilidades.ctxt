@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Utilidades
+comment1.params=opciones
+comment1.target=void\ imprimirMenu(java.lang.String[])
+comment1.text=\r\n\ Imprime\ un\ men\u00FA\ en\ la\ consola\ con\ las\ opciones\ proporcionadas.\r\n\r\n\ @param\ opciones\ Las\ opciones\ del\ men\u00FA.\r\n
+comment2.params=objeto\ atributos
+comment2.target=void\ imprimirObjeto(java.lang.Object,\ java.lang.String[])
+comment2.text=\r\n\ Imprime\ los\ atributos\ de\ un\ objeto\ utilizando\ reflexi\u00F3n.\r\n\r\n\ @param\ objeto\ \ \ \ El\ objeto\ del\ cual\ imprimir\ los\ atributos.\r\n\ @param\ atributos\ Los\ nombres\ de\ los\ atributos\ a\ imprimir.\r\n
+comment3.params=mensaje
+comment3.target=int\ getInt(java.lang.String)
+comment3.text=\r\n\ Lee\ un\ n\u00FAmero\ entero\ desde\ la\ entrada\ est\u00E1ndar.\r\n\r\n\ @param\ mensaje\ El\ mensaje\ que\ se\ muestra\ al\ usuario.\r\n\ @return\ El\ n\u00FAmero\ entero\ ingresado.\r\n
+comment4.params=mensaje\ limit
+comment4.target=double\ getDouble(java.lang.String,\ double)
+comment4.text=\r\n\ Lee\ un\ n\u00FAmero\ decimal\ desde\ la\ entrada\ est\u00E1ndar.\r\n\r\n\ @param\ mensaje\ El\ mensaje\ que\ se\ muestra\ al\ usuario.\r\n\ @param\ limit\ \ \ El\ l\u00EDmite\ m\u00E1ximo\ para\ el\ n\u00FAmero\ decimal.\ 0.0\ si\ no\ hay\ l\u00EDmite.\r\n\ @return\ El\ n\u00FAmero\ decimal\ ingresado.\r\n
+comment5.params=mensaje
+comment5.target=java.lang.String\ getString(java.lang.String)
+comment5.text=\r\n\ Lee\ una\ cadena\ de\ texto\ desde\ la\ entrada\ est\u00E1ndar.\r\n\r\n\ @param\ mensaje\ El\ mensaje\ que\ se\ muestra\ al\ usuario.\r\n\ @return\ La\ cadena\ de\ texto\ ingresada.\r\n
+comment6.params=mensaje
+comment6.target=boolean\ getBoolean(java.lang.String)
+comment6.text=\r\n\ Lee\ una\ respuesta\ booleana\ ("S"\ o\ "N")\ desde\ la\ entrada\ est\u00E1ndar.\r\n\r\n\ @param\ mensaje\ El\ mensaje\ que\ se\ muestra\ al\ usuario.\r\n\ @return\ `true`\ si\ la\ respuesta\ es\ "S",\ `false`\ si\ la\ respuesta\ es\ "N".\r\n
+numComments=7

@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=ProductorGrande
+comment1.params=nombre\ hectareas\ productos
+comment1.target=ProductorGrande(java.lang.String,\ double,\ java.util.List)
+comment1.text=\r\n\ Constructor\ de\ la\ clase\ ProductorGrande.\r\n\r\n\ @param\ nombre\ \ \ \ \ El\ nombre\ del\ Productor.\r\n\ @param\ hectareas\ \ El\ n\u00FAmero\ de\ hect\u00E1reas\ del\ Productor.\r\n\ @param\ productos\ \ La\ lista\ de\ productos\ del\ Productor.\r\n
+numComments=2

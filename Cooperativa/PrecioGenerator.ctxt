@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=PrecioGenerator
+comment1.params=productos
+comment1.target=void\ actualizarPreciosUnicos(java.util.List)
+comment1.text=\r\n\ Actualiza\ los\ precios\ \u00FAnicos\ de\ los\ productos\ en\ la\ tabla\ de\ precios.\r\n\r\n\ @param\ productos\ La\ lista\ de\ productos.\r\n
+comment2.params=productos\ tipoProducto
+comment2.target=Producto\ buscarProductoPorTipo(java.util.List,\ TipoProducto)
+comment2.text=\r\n\ Busca\ un\ producto\ en\ la\ lista\ de\ productos\ por\ su\ tipo.\r\n\r\n\ @param\ productos\ \ \ \ La\ lista\ de\ productos.\r\n\ @param\ tipoProducto\ El\ tipo\ de\ producto\ a\ buscar.\r\n\ @return\ El\ producto\ encontrado\ o\ `null`\ si\ no\ se\ encuentra.\r\n
+comment3.params=
+comment3.target=double\ numeroRandom()
+comment3.text=\r\n\ Genera\ un\ n\u00FAmero\ aleatorio\ entre\ 0.1\ y\ 1\ (con\ dos\ decimales).\r\n\r\n\ @return\ El\ n\u00FAmero\ aleatorio\ generado.\r\n
+comment4.params=
+comment4.target=java.time.LocalDate\ generarFechaAleatoria()
+comment4.text=\r\n\ Genera\ una\ fecha\ aleatoria\ dentro\ del\ a\u00F1o\ actual.\r\n\r\n\ @return\ La\ fecha\ aleatoria\ generada.\r\n
+numComments=5

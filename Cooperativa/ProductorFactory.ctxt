@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=ProductorFactory
+comment1.params=nombre\ hectareas\ productos
+comment1.target=Productor\ crearProductor(java.lang.String,\ double,\ java.util.List)
+comment1.text=\r\n\ Crea\ un\ objeto\ Productor\ seg\u00FAn\ los\ par\u00E1metros\ especificados.\r\n\r\n\ @param\ nombre\ \ \ \ El\ nombre\ del\ productor.\r\n\ @param\ hectareas\ Las\ hect\u00E1reas\ del\ productor.\r\n\ @param\ productos\ Los\ productos\ del\ productor.\r\n\ @return\ El\ objeto\ Productor\ creado.\r\n\ @throws\ IllegalArgumentException\ Si\ se\ intenta\ crear\ un\ ProductorPeque\u00F1o\ con\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ m\u00E1s\ de\ 5\ productos.\r\n
+numComments=2

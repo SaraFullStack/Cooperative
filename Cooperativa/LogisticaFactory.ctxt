@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=LogisticaFactory
+comment1.params=kmCapital\ kmLocalidad\ producto\ cantidad
+comment1.target=java.util.List\ crearLogistica(double,\ double,\ Producto,\ int)
+comment1.text=\r\n\ Crea\ una\ lista\ de\ objetos\ de\ log\u00EDstica\ seg\u00FAn\ los\ par\u00E1metros\ especificados.\r\n\r\n\ @param\ kmCapital\ \ \ Los\ kil\u00F3metros\ en\ ruta\ hacia\ la\ capital.\r\n\ @param\ kmLocalidad\ Los\ kil\u00F3metros\ en\ ruta\ hacia\ la\ localidad.\r\n\ @param\ producto\ \ \ \ El\ producto\ a\ enviar.\r\n\ @param\ cantidad\ \ \ \ La\ cantidad\ de\ productos\ a\ enviar.\r\n\ @return\ Una\ lista\ de\ objetos\ de\ tipo\ Logistica\ que\ representan\ el\ env\u00EDo.\r\n
+comment2.params=kmCapital\ kmLocalidad\ producto\ pesoTotal
+comment2.target=java.util.List\ calcularLogisticaConCoste(double,\ double,\ Producto,\ double)
+comment2.text=\r\n\ Calcula\ la\ log\u00EDstica\ con\ costo\ y\ devuelve\ una\ lista\ de\ objetos\ de\ log\u00EDstica.\r\n\r\n\ @param\ kmCapital\ \ \ Los\ kil\u00F3metros\ en\ ruta\ hacia\ la\ capital.\r\n\ @param\ kmLocalidad\ Los\ kil\u00F3metros\ en\ ruta\ hacia\ la\ localidad.\r\n\ @param\ producto\ \ \ \ El\ producto\ a\ enviar.\r\n\ @param\ pesoTotal\ \ \ El\ peso\ total\ de\ los\ productos.\r\n\ @return\ La\ lista\ de\ objetos\ de\ log\u00EDstica.\r\n
+comment3.params=logisticas\ kmCapital\ producto\ pesoTotal
+comment3.target=java.util.List\ calcularLogisticaPorKg(java.util.List,\ double,\ Producto,\ double)
+comment3.text=\r\n\ Calcula\ la\ log\u00EDstica\ por\ kilogramo\ y\ agrega\ los\ objetos\ de\ log\u00EDstica\ a\ la\r\n\ lista\ existente.\r\n\r\n\ @param\ logisticas\ La\ lista\ de\ objetos\ de\ log\u00EDstica\ existente.\r\n\ @param\ kmCapital\ \ Los\ kil\u00F3metros\ en\ ruta\ hacia\ la\ capital.\r\n\ @param\ producto\ \ \ El\ producto\ a\ enviar.\r\n\ @param\ pesoTotal\ \ El\ peso\ total\ de\ los\ productos.\r\n\ @return\ La\ lista\ de\ objetos\ de\ log\u00EDstica\ actualizada.\r\n
+comment4.params=km\ producto\ granLogistica\ cantidad
+comment4.target=double\ calculaCoste(double,\ Producto,\ boolean,\ double)
+comment4.text=\r\n\ Calcula\ el\ costo\ de\ una\ operaci\u00F3n\ de\ log\u00EDstica\ en\ funci\u00F3n\ de\ los\ kil\u00F3metros,\r\n\ el\ producto\ y\ la\ cantidad.\r\n\r\n\ @param\ km\ \ \ \ \ \ \ \ \ \ \ \ Los\ kil\u00F3metros\ en\ ruta.\r\n\ @param\ producto\ \ \ \ \ \ El\ producto\ a\ enviar.\r\n\ @param\ granLogistica\ Indica\ si\ es\ una\ operaci\u00F3n\ de\ log\u00EDstica\ de\ gran\ tama\u00F1o.\r\n\ @param\ cantidad\ \ \ \ \ \ La\ cantidad\ de\ productos\ a\ enviar.\r\n\ @return\ El\ costo\ de\ la\ operaci\u00F3n\ de\ log\u00EDstica.\r\n
+numComments=5

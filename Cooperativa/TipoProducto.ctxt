@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=TipoProducto
+comment0.text=\r\n\ Clase\ para\ establecer\ productos\r\n\ @author\ (Sara\ Cubero)\ \r\n\ @version\ (1.0)\r\n
+comment1.params=id\ nombre\ esPerecedero\ rendimientoHectarea\ peso
+comment1.target=TipoProducto(int,\ java.lang.String,\ boolean,\ double,\ double)
+comment1.text=\r\n\ Constructor\ de\ la\ clase\ TipoProducto.\r\n\r\n\ @param\ id\ \r\n\ @param\ nombre\r\n\ @param\ esPerecedero\r\n\ @param\ rendimientoHectarea\r\n\ @param\ peso\r\n
+comment2.params=
+comment2.target=int\ getId()
+comment2.text=\r\n\ Devuelve\ el\ id\ del\ tipo\ de\ producto\r\n\r\n\ @return\ id\r\n
+comment3.params=
+comment3.target=java.lang.String\ getNombre()
+comment3.text=\r\n\ Devuelve\ el\ nombre\ del\ tipo\ de\ producto\r\n\r\n\ @return\ nombre\r\n
+comment4.params=
+comment4.target=boolean\ getEsPerecedero()
+comment4.text=\r\n\ Devuelve\ si\ es\ perecedero\ el\ tipo\ de\ producto\r\n\r\n\ @return\ esPerecedero\r\n
+comment5.params=
+comment5.target=double\ getRendimientoHectarea()
+comment5.text=\r\n\ Devuelve\ el\ rendimiento\ por\ hectarea\ de\ un\ tipo\ de\ producto.\r\n\r\n\ @return\ rendimientoHectarea\r\n
+comment6.params=
+comment6.target=double\ getPeso()
+comment6.text=\r\n\ Devuelve\ el\ peso\ de\ un\ producto.\r\n\r\n\ @return\ peso.\r\n
+numComments=7

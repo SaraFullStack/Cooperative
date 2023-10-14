@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=ElementoPedido
+comment1.params=cantidad\ producto\ kmCapital\ kmLocalidad
+comment1.target=ElementoPedido(int,\ Producto,\ double,\ double)
+comment1.text=\r\n\ Constructor\ de\ la\ clase\ ElementoPedido.\r\n\ \r\n\ @param\ cantidad\ La\ cantidad\ del\ producto\ en\ el\ pedido.\r\n\ @param\ producto\ El\ producto\ del\ elemento.\r\n\ @param\ kmCapital\ Los\ kil\u00F3metros\ hacia\ la\ capital.\r\n\ @param\ kmLocalidad\ Los\ kil\u00F3metros\ hacia\ la\ localidad.\r\n
+comment2.params=
+comment2.target=java.lang.String\ getProductoNombre()
+comment2.text=\r\n\ Obtiene\ el\ nombre\ del\ producto\ del\ elemento.\r\n\ \r\n\ @return\ El\ nombre\ del\ producto.\r\n
+comment3.params=
+comment3.target=int\ getCantidad()
+comment3.text=\r\n\ Obtiene\ la\ cantidad\ del\ producto\ en\ el\ elemento.\r\n\ \r\n\ @return\ La\ cantidad\ del\ producto.\r\n
+comment4.params=
+comment4.target=double\ getPeso()
+comment4.text=\r\n\ Obtiene\ el\ peso\ total\ del\ elemento.\r\n\ \r\n\ @return\ El\ peso\ total\ del\ elemento.\r\n
+comment5.params=
+comment5.target=Producto\ getProducto()
+comment5.text=\r\n\ Obtiene\ el\ producto\ del\ elemento.\r\n\ \r\n\ @return\ El\ producto\ del\ elemento.\r\n
+comment6.params=
+comment6.target=java.util.List\ getLogistica()
+comment6.text=\r\n\ Obtiene\ la\ lista\ de\ log\u00EDsticas\ asociadas\ al\ elemento.\r\n\ \r\n\ @return\ La\ lista\ de\ log\u00EDsticas.\r\n
+comment7.params=cantidad
+comment7.target=void\ setCantidad(int)
+comment7.text=\r\n\ Establece\ la\ cantidad\ del\ producto\ en\ el\ elemento.\r\n\ \r\n\ @param\ cantidad\ La\ nueva\ cantidad\ del\ producto.\r\n
+numComments=8

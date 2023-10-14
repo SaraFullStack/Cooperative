@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=ProductorFederado
+comment1.params=nombre\ hectareas\ productos
+comment1.target=ProductorFederado(java.lang.String,\ double,\ java.util.List)
+comment1.text=\r\n\ Crea\ un\ objeto\ ProductorFederado\ con\ el\ nombre,\ hect\u00E1reas\ y\ productos\r\n\ especificados.\r\n\r\n\ @param\ nombre\ \ \ \ El\ nombre\ del\ productor\ federado.\r\n\ @param\ hectareas\ Las\ hect\u00E1reas\ totales\ del\ productor\ federado.\r\n\ @param\ productos\ Los\ productos\ del\ productor\ federado.\r\n
+comment2.params=productores\ productoresFederados\ producto\ random
+comment2.target=ProductorFederado\ setProductorFederado(java.util.List,\ java.util.List,\ Producto,\ boolean)
+comment2.text=\r\n\ Crea\ un\ objeto\ ProductorFederado\ a\ partir\ de\ una\ lista\ de\ Productores\r\n\ Peque\u00F1os\ y\ un\ Producto.\ Los\ Productores\ Peque\u00F1os\ se\ agrupan\ en\ un\ Productor\r\n\ Federado,\ sumando\ sus\ hect\u00E1reas\ y\ creando\ un\ nuevo\ Producto\ con\ las\ hect\u00E1reas\r\n\ totales.\r\n\r\n\ @param\ productores\ \ \ \ \ \ \ \ \ \ La\ lista\ de\ Productores\ Peque\u00F1os.\r\n\ @param\ productoresFederados\ La\ lista\ de\ Productores\ Federados\ existentes.\r\n\ @param\ producto\ \ \ \ \ \ \ \ \ \ \ \ \ El\ Producto\ que\ se\ utilizar\u00E1\ para\ crear\ el\ nuevo\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ Productor\ Federado.\r\n\ @return\ El\ objeto\ ProductorFederado\ creado.\r\n\ @throws\ IllegalArgumentException\ Si\ la\ suma\ de\ las\ hect\u00E1reas\ de\ los\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ Productores\ Peque\u00F1os\ supera\ el\ l\u00EDmite\ de\ un\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ Productor\ Peque\u00F1o.\r\n
+numComments=3

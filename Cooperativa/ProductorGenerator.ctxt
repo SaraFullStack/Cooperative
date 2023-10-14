@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=ProductorGenerator
+comment1.params=isSmall
+comment1.target=Productor\ generarProductorRandom(boolean)
+comment1.text=\r\n\ Genera\ un\ Productor\ aleatorio.\r\n\r\n\ @param\ isSmall\ Indica\ si\ se\ debe\ generar\ un\ Productor\ peque\u00F1o.\r\n\ @return\ El\ objeto\ Productor\ generado.\r\n
+comment2.params=
+comment2.target=java.lang.String\ generarNombreRandom()
+comment2.text=\r\n\ Genera\ un\ nombre\ aleatorio\ para\ un\ Productor.\r\n\r\n\ @return\ El\ nombre\ generado.\r\n
+comment3.params=
+comment3.target=double\ generarHectareasRandom()
+comment3.text=\r\n\ Genera\ un\ n\u00FAmero\ aleatorio\ de\ hect\u00E1reas\ para\ un\ Productor.\r\n\r\n\ @return\ El\ n\u00FAmero\ de\ hect\u00E1reas\ generado.\r\n
+numComments=4

@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=ConsumidorFinal
+comment0.text=\r\n\ Clase\ que\ representa\ a\ un\ Comprador\ de\ tipo\ Consumidor\ Final.\r\n\ Hereda\ de\ la\ clase\ Comprador\ y\ proporciona\ un\ constructor\ para\ crear\ un\ objeto\ ConsumidorFinal.\r\n
+comment1.params=nombre\ pedido
+comment1.target=ConsumidorFinal(java.lang.String,\ Pedido)
+comment1.text=\r\n\ Constructor\ de\ la\ clase\ ConsumidorFinal.\r\n\ @param\ nombre\ nombre\ del\ comprador.\r\n\ @param\ pedido\ pedido\ del\ comprador.\r\n
+numComments=2

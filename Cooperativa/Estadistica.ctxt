@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Estadistica
+comment1.params=pedidos
+comment1.target=void\ ventasTotales(java.util.List)
+comment1.text=\r\n\ Calcula\ las\ ventas\ totales\ por\ producto\ en\ un\ per\u00EDodo\ de\ tiempo\ espec\u00EDfico.\r\n\ \r\n\ @param\ pedidos\ la\ lista\ de\ pedidos\ a\ analizar\r\n
+comment2.params=pedidos\ productores
+comment2.target=void\ importesObtenidosProductor(java.util.List,\ java.util.List)
+comment2.text=\r\n\ Calcula\ los\ ingresos\ obtenidos\ por\ cada\ productor\ en\ funci\u00F3n\ de\ los\ pedidos\ entregados.\r\n\r\n\ @param\ pedidos\ la\ lista\ de\ pedidos\ a\ analizar.\r\n\ @param\ lista\ de\ productores\ para\ buscar\ los\ productores\ si\ hay\ un\ pedido\ a\ una\ federacion\r\n
+comment3.params=pedidos
+comment3.target=void\ importesObtenidosLogistica(java.util.List)
+comment3.text=\r\n\ Calcula\ los\ importes\ obtenidos\ por\ cada\ tipo\ de\ log\u00EDstica\ en\ funci\u00F3n\ de\ los\r\n\ pedidos\ entregados.\r\n\ \r\n\ @param\ pedidos\ la\ lista\ de\ pedidos\ a\ analizar\r\n
+comment4.params=compradores
+comment4.target=void\ beneficiosCooperativaPorProducto(java.util.List)
+comment4.text=\r\n\ Calcula\ los\ beneficios\ totales\ obtenidos\ por\ la\ cooperativa\ por\ cada\r\n\ producto.\r\n\ \r\n\ @param\ compradores\ la\ lista\ de\ compradores\r\n
+comment5.params=productos
+comment5.target=void\ evolucionPreciosProducto(java.util.List)
+comment5.text=\r\n\ Calcula\ la\ evoluci\u00F3n\ de\ precios\ de\ cada\ producto.\r\n\ \r\n\ @param\ productos\ la\ lista\ de\ productos\ a\ analizar\r\n
+numComments=6

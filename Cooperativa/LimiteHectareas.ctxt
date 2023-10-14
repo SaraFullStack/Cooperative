@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=LimiteHectareas
+comment0.text=\r\n\ Esta\ clase\ representa\ el\ l\u00EDmite\ m\u00E1ximo\ de\ hect\u00E1reas\ que\ un\ productor\ puede\ tener\ en\ la\ cooperativa\ empresarial.\r\n\ Esta\ clase\ es\ implementada\ como\ un\ patr\u00F3n\ Singleton\ para\ garantizar\ que\ solo\ exista\ una\ instancia\ del\ l\u00EDmite\ de\ hect\u00E1reas.\r\n\ @author\ (Sara\ Cubero)\ \r\n\ @version\ (1.0)\r\n
+comment1.params=limite
+comment1.target=LimiteHectareas(double)
+comment2.params=
+comment2.target=LimiteHectareas\ getInstance()
+comment2.text=\r\n\ M\u00E9todo\ para\ obtener\ la\ instancia\ \u00FAnica\ de\ la\ clase\r\n
+comment3.params=limite
+comment3.target=void\ setLimite(double)
+comment3.text=\r\n\ M\u00E9todo\ para\ establecer\ un\ l\u00EDmite\ nuevo\r\n\ \r\n\ @param\ limite\ (double)\r\n
+comment4.params=
+comment4.target=double\ getLimite()
+comment4.text=\r\n\ M\u00E9todo\ para\ obtener\ el\ l\u00EDmite\ actual\r\n\ \r\n\ @return\ limite\ (double)\r\n
+numComments=5

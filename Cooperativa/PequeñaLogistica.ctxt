@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Peque\u00F1aLogistica
+comment0.text=\r\n\ Clase\ que\ representa\ la\ log\u00EDstica\ de\ tipo\ peque\u00F1a.\ Esta\ clase\ extiende\ la\r\n\ clase\ abstracta\ Logistica.\r\n\ @author\ (Sara\ Cubero)\ \r\n\ @version\ (1.0)\r\n
+comment1.params=coste\ kg\ km
+comment1.target=Peque\u00F1aLogistica(double,\ double,\ double)
+comment1.text=\r\n\ Constructor\ de\ la\ clase\ Peque\u00F1aLogistica.\r\n\ \r\n\ @param\ coste\ El\ costo\ de\ la\ log\u00EDstica.\r\n\ @param\ kg\ \ \ \ El\ peso\ en\ kilogramos.\r\n\ @param\ km\ \ \ \ Los\ kil\u00F3metros\ recorridos.\r\n
+comment2.params=
+comment2.target=double\ getPrecioKmKg()
+comment2.text=\r\n\ Obtiene\ el\ precio\ por\ kil\u00F3metro\ por\ kilogramo\ para\ la\ log\u00EDstica\ peque\u00F1a.\r\n\ \r\n\ @return\ El\ precio\ por\ kil\u00F3metro\ por\ kilogramo.\r\n
+numComments=3
